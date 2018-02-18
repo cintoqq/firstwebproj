@@ -1,6 +1,6 @@
 [Home](index.md) | [Application & Fees](application.md) | [Timetable](timetable.md) | [Location, Accommodation, & Dining](location.md)
 
-# Location, Accommodation, and Dining
+# Location, Accommodation and Dining
 
 ## Location
 Sing-a-Pore Camp 2018 is taking place at the Genome Institute of Singapore (GIS), Genome Building, Biopolis, Singapore 138672 ([map](http://www.streetdirectory.com/sg/genome/60-biopolis-street-138672/2989_10373.html). The building is unlocked and accessible during PoreCamp hours.
@@ -30,12 +30,11 @@ The following meals will be provided by the organisers:
 
 For the more adventurous, there are a myriad of dining venues and cuisines to choose from around Biopolis, some of which are listed here:
   *	Biopolis [https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista] (https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista) 
-	  *	[http://www.thelawn.com.sg] (http://www.thelawn.com.sg) (salad bar)
-	  *	[http://www.longblack.com.sg] (http://www.longblack.com.sg)(burgers, pasta, and more)
-	  *	[https://www.rajrestaurant.com.sg] (https://www.rajrestaurant.com.sg) (North Indian)
-	  *	[https://www.parkwayonenorth.com](https://www.parkwayonenorth.com) (Thai)
-	  *	[http://www.bigmama.sg/buona-vista](http://www.bigmama.sg/buona-vista) (Korean)
-	  *	[http://peperoni.com.sg/biopolis](http://peperoni.com.sg/biopolis)(Italian, pizza)
+	  *	<a href="http://www.thelawn.com.sg" target="_blank">http://www.thelawn.com.sg</a> (salad bar)
+	  *	<a href="http://www.longblack.com.sg" target="_blank">http://www.longblack.com.sg</a> (burgers, pasta, and more)
+	  *	<a href="https://www.rajrestaurant.com.sg" target="_blank">https://www.rajrestaurant.com.sg</a> (North Indian)
+	  *	<a href="https://www.parkwayonenorth.com" target="_blank">https://www.parkwayonenorth.com</a> (Thai)
+	  *	<a href="http://www.bigmama.sg/buona-vista" target="_blank">http://www.bigmama.sg/buona-vista</a> (Korean)
 	  *	<a href="http://peperoni.com.sg/biopolis" target="_blank">http://peperoni.com.sg/biopolis</a> (Italian, pizza)
 
   *	Fusionopolis [https://www.google.com.sg/maps/@1.2986505,103.7875216,15z] (https://www.google.com.sg/maps/@1.2986505,103.7875216,15z)
